@@ -93,7 +93,7 @@
 | [plugin-view-manager-pane][github-plugin-view-manager-pane-url] | [![NPM version][npm-plugin-view-manager-pane-image]][npm-plugin-view-manager-pane-url] |  视图管理面板 |
 | [plugin-multiple-editor][github-plugin-multiple-editor-url] | [![NPM version][npm-plugin-multiple-editor-image]][npm-plugin-multiple-editor-url] |  源码面板 |  
 | [plugin-undo-redo][github-plugin-undo-redo-url] | [![NPM version][npm-plugin-undo-redo-image]][npm-plugin-undo-redo-url] |  撤销 重做 |  
-| [plugin-simulator-size][github-plugin-simulator-size-url] | [![NPM version][npm-plugin-simulator-size-image]][npm-plugin-simulator-size-url] |  画布大小 |  
+| [plugin-simulator-select][github-plugin-simulator-select-url] | [![NPM version][npm-plugin-simulator-select-image]][npm-plugin-simulator-select-url] |  画布大小 |  
 | [plugin-zh-en][github-plugin-zh-en-url] | [![NPM version][npm-plugin-zh-en-image]][npm-plugin-zh-en-url] |  多语言 |  
 | [plugin-resource-tabs][github-plugin-resource-tabs-url] | [![NPM version][npm-plugin-resource-tabs-image]][npm-plugin-resource-tabs-url] |  资源管理面板 |  
 | [plugin-code-editor][github-plugin-code-editor-url] | [![NPM version][npm-plugin-code-editor-image]][npm-plugin-code-editor-url] |  代码编辑 |  
@@ -139,9 +139,9 @@
 [npm-plugin-manual-url]: http://npmjs.org/package/@felce/lowcode-plugin-manual
 [github-plugin-manual-url]: http://github.com/fe-lce/lowcode-plugins/tree/main/packages/plugin-manual
 
-[npm-plugin-simulator-size-image]: https://img.shields.io/npm/v/@felce/lowcode-plugin-simulator-size.svg?style=flat-square
-[npm-plugin-simulator-size-url]: http://npmjs.org/package/@felce/lowcode-plugin-simulator-size
-[github-plugin-simulator-size-url]: http://github.com/fe-lce/lowcode-plugins/tree/main/packages/plugin-simulator-size
+[npm-plugin-simulator-select-image]: https://img.shields.io/npm/v/@felce/lowcode-plugin-simulator-select.svg?style=flat-square
+[npm-plugin-simulator-select-url]: http://npmjs.org/package/@felce/lowcode-plugin-simulator-select
+[github-plugin-simulator-select-url]: http://github.com/fe-lce/lowcode-plugins/tree/main/packages/plugin-simulator-select
 
 [npm-plugin-zh-en-image]: https://img.shields.io/npm/v/@felce/lowcode-plugin-zh-en.svg?style=flat-square
 [npm-plugin-zh-en-url]: http://npmjs.org/package/@felce/lowcode-plugin-zh-en
