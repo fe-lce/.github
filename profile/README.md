@@ -91,7 +91,7 @@
 | [plugin-schema][github-plugin-schema-url] | [![NPM version][npm-plugin-schema-image]][npm-plugin-schema-url] |  schema 源码 |  
 | [plugin-components-pane][github-plugin-components-pane-url] | [![NPM version][npm-plugin-components-pane-image]][npm-plugin-components-pane-url] |  组件面板 |  
 | [plugin-view-manager-pane][github-plugin-view-manager-pane-url] | [![NPM version][npm-plugin-view-manager-pane-image]][npm-plugin-view-manager-pane-url] |  视图管理面板 |
-| [plugin-multiple-editor][github-plugin-multiple-editor-url] | [![NPM version][npm-plugin-multiple-editor-image]][npm-plugin-multiple-editor-url] |  源码面板 |  
+| [plugin-multiple-editor][github-plugin-multiple-editor-url] | [![NPM version][npm-plugin-multiple-editor-image]][npm-plugin-multiple-editor-url] |  多文件编辑器 |  
 | [plugin-undo-redo][github-plugin-undo-redo-url] | [![NPM version][npm-plugin-undo-redo-image]][npm-plugin-undo-redo-url] |  撤销 重做 |  
 | [plugin-simulator-select][github-plugin-simulator-select-url] | [![NPM version][npm-plugin-simulator-select-image]][npm-plugin-simulator-select-url] |  画布大小 |  
 | [plugin-zh-en][github-plugin-zh-en-url] | [![NPM version][npm-plugin-zh-en-image]][npm-plugin-zh-en-url] |  多语言 |  
