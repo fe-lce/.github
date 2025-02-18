@@ -1,6 +1,43 @@
 ⭐ 欢迎使用 fe-lce 系列 lowcode-engine 低代码引擎！
 ⭐ 如有有任何疑问，可以查询添加 wx: kunsile-002 与我沟通！
 
+## 注意
+1. outline （大纲树）插件从lowcode-engine中迁移到 plugins 中，单独注册使用
+2. engine-ext 建议在项目中直接导入使用，不再external
+
+### alifd/next
+vite.config.ts 配置如下，以正确解析路径
+```js
+  resolve: {
+    alias: {
+      '~@alifd': '@alifd',
+    },
+  },
+```
+
+### 兼容
+
+
+如果需要使用 @alilc 的包，在 vite.config.ts 配置中添加如下配置
+```js
+{
+    resolve: {
+        alias: {
+            '@alilc/lowcode-engine': '@felce/lowcode-engine',
+            '@alilc/lowcode-types': '@felce/lowcode-types',
+            '@alilc/lowcode-utils': '@felce/lowcode-utils',
+            '@alilc/lowcode-shell': '@felce/lowcode-shell',
+            '@alilc/lowcode-designer': '@felce/lowcode-designer',
+            '@alilc/lowcode-editor-core': '@felce/lowcode-core',
+            '@alilc/lowcode-editor-skeleton': '@felce/lowcode-skeleton',
+        }
+    }
+}
+```
+
+### 插件
+插件使用暂时参考lowcode-plugins包中已发布插件的注册方式，文档后续补充
+
 ## 工具版本列表
 
 | 工具名称                                                                       | 版本                                                                                   | 描述             |
